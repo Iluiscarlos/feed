@@ -7,4 +7,4 @@ Feed Project by React + TypeScript
 ```
 npm run dev
 ```
-Afterthe, access the link avaliable
+Afterthen, access the link avaliable
