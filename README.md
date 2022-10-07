@@ -1,4 +1,4 @@
-# feed
+# Feed
 Feed Project by React + TypeScript
 
 # How to use
