@@ -5,8 +5,8 @@ Feed Project by React + TypeScript
 - Clone the project
 - Open the project on terminal and execute the command
 ```
-npm install node
-npm install
-npm run dev
+cd pix-project
+  npm install
+  npm run dev
 ```
 Afterthen, access the link avaliable
