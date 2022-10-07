@@ -1,0 +1,99 @@
+.publication {
+    width: 100%;
+    background: var(--white);
+    border-radius: 8px;
+    border: 1px solid var(--gray-300);
+    overflow: hidden;
+    padding: 2.68rem;
+}
+
+.publication > header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.profile {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: flex-end;
+}
+
+.description {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.description strong {
+    font-size: 1rem;
+    line-height: 0.039rem;
+}
+
+.description span {
+    color: var(--gray-500);
+    line-height: 0.039rem;
+}
+
+.hours {
+    margin-right: 2.5rem;
+}
+
+.feed{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid var(--gray-300);
+    
+}
+
+.content {
+    margin-top: 2.06rem;
+    line-height: 3rem;
+}
+
+.content a {
+    text-decoration: none;
+    color: var(--green-100);
+}
+
+.content a :hover{
+    color: var(--green-200);
+}
+.content strong{
+    color: var(--green-100);
+}
+
+
+.feedback{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+    gap: 1rem;
+}
+
+.feedback textarea{
+    height: 6rem;
+    resize: none;
+    border-style: none;
+    background: var(--gray-100);
+    border-radius: 8px;
+}
+
+.feedback button{
+    width: 6.75rem;
+    height: 3.06rem;
+    border-radius: 8px;
+    border-style: none;
+    background: var(--green-100);
+    color: var(--white)
+}
+
+.feedback button[type="submit"]:hover{
+    background-color: var(--green-200);
+}
+
+

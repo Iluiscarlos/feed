@@ -1,0 +1,65 @@
+.profileComent{
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+    align-items: flex-start;
+    margin-top: 2.85rem;
+}
+.profileComent .coments{
+    width: 63rem;
+    height: 9.25rem;
+    resize: none;
+    border-style: none;
+    background: var(--gray-100);
+    border-radius: 9px;
+    padding: 0.5rem 0.5rem;
+    font-size: 0.87rem;
+    color: var(--gray-600);
+}
+
+.coments .name{
+    font-size: 0.87rem;
+}
+
+.coments span{
+    font-size: 0.90rem;
+    
+}
+
+.coments p{
+    margin-top: 0.75rem;
+    margin-bottom: 1rem;
+    font-size: 0.90rem;
+}
+
+.coments .selected{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1rem;
+}
+
+.reactions{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    gap: 1rem;
+    margin-left: 5.5rem;
+    margin-top: 1rem;
+    border-style: none;
+    background-color: white;
+}
+
+.reactions:hover{
+    color: var(--green-100);
+}
+
+.deleteBtn{
+    border-style: none;
+    background: var(--gray-100);
+}
+
+.deleteBtn:hover{
+    color: rgba(255, 0, 0, 0.733);
+    border-style: none;
+    background: var(--gray-100);
+}
