@@ -6,6 +6,7 @@ Feed Project by React + TypeScript
 - Open the project on terminal and execute the command
 ```
 npm install node
+npm install
 npm run dev
 ```
 Afterthen, access the link avaliable
