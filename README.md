@@ -1,6 +1,10 @@
 # Feed
 Feed Project by React + TypeScript
 
+# Requirements
+-Node
+-Vite
+
 # How to use
 - Clone the project
 - Open the project on terminal and execute the command
