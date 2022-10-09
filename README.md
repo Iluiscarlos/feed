@@ -2,8 +2,8 @@
 Feed Project by React + TypeScript
 
 # Requirements
--Node
--Vite
+- Node
+- Vite
 
 # How to use
 - Clone the project
